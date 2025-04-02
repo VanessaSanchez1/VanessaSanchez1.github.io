@@ -1,10 +1,11 @@
 
 # 💼 Hola soy Vanessa Mery Sanchez Ticona 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<p><img align="right" src="img/header_1.png"/></p>
 
+<p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br/>
 
 ## 👩‍💻 Sobre mí
 
