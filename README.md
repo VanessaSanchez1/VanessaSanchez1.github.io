@@ -28,7 +28,7 @@
 ## 🛠️ Tecnologías y Herramientas
 Aquí algunas de las tecnologías que manejo:
 
-<p>
+
 🧪 Testing y Automatización:
 
    ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
@@ -37,12 +37,12 @@ Aquí algunas de las tecnologías que manejo:
    ![Static Badge](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=23D96C&labelColor=black)
 
 📦 Bases de Datos y Reportes:
-  <br>
+
   
   ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)
 
 🖥️ Lenguajes de Programación:
-  <br>
+
   
   ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black)
@@ -51,7 +51,7 @@ Aquí algunas de las tecnologías que manejo:
   ![Static Badge](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=0F0F11&labelColor=white)
 
 🛠️ Herramientas de Desarrollo y Gestión:
-  <br>
+
 
    ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=white)
    ![Static Badge](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=0052CC&labelColor=black)
@@ -60,13 +60,13 @@ Aquí algunas de las tecnologías que manejo:
    ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=172B4D&labelColor=white)
 
 🎨 Diseño y Otras Herramientas:
-  <br>
+
 
   ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=BF0000&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=white)
-</p> 
+
   
 ---
 
