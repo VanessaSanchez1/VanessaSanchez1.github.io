@@ -3,9 +3,9 @@
 
 <p><img align="right" src="img/header_1.png"/></p>
 
-<p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-<br/>
+--
 
 ## 👩‍💻 Sobre mí
 
@@ -38,8 +38,11 @@ Aquí algunas de las tecnologías que manejo:
 🧪 Testing y Automatización:
 
    ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
-   ![Static Badge](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=69D3A7&labelColor=black)  
+   
+   ![Static Badge](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=69D3A7&labelColor=black)
+      
    ![Static Badge](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=white)
+   
    ![Static Badge](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=23D96C&labelColor=black)
 
 📦 Bases de Datos y Reportes:
