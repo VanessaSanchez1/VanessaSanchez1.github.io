@@ -1,16 +1,14 @@
 
-# 💼 Hola soy Vanessa Mery 👋
-
-<br>
-
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+# 💼 Hola soy Vanessa Mery Sanchez Ticona 👋
 
 ## 👩‍💻 Sobre mí
 
-Soy **Vanessa Mery Sanchez Ticona**, Analista QA Automatizador. Egresada de la carrera de **Computación e Informática**, con pasión por la automatización de pruebas y optimización de procesos QA.
+✨ Actualmente...
+- Estudiante del 9no semestre en la Universidad Continental
+- Me desempeño como QA Automatizador
+- En proceso de aprendizaje en crear APIs Rest
+- Preparandome para la Certificacion ISTQB
+- En mis tiempos libres suelo jugar en la PC o salir a caminar
 
 ✨ Me destaco por ser:
 - Proactiva
@@ -20,112 +18,71 @@ Soy **Vanessa Mery Sanchez Ticona**, Analista QA Automatizador. Egresada de la c
 - Capaz de trabajar bajo presión y con alta capacidad de análisis
 
 💡 Mi enfoque está en:
-- Pruebas automatizadas
+- Automatizar procesos
 - Pruebas funcionales
 - Pruebas unitarias
 - Pruebas de regresión
 
-✨ Aprendiendo...
-- Actualmente estudiante de la Universidad Continental
-- Me desempeño como QA Automatizador
-- Actualmente estoy aprendiendo a crear APIs por mi cuenta
-- Estoy llevando un curso de Certificacion ISTQB
-- En mis tiempos libres suelo jugar en la PC o salir a caminar
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-
 Aquí algunas de las tecnologías que manejo:
 
-<p align="left">
-  <img src="img/java.svg" alt="Java" width="50" />
-  <img src="img/selenium.svg" alt="Selenium" width="50" />
-  <img src="img/postman.svg" alt="Postman" width="50" />
-  <img src="img/cucumber.svg" alt="Cucumber" width="50" />
-  <img src="img/jenkins.svg" alt="Jenkins" width="50" />
-  <img src="img/jira.svg" alt="JIRA" width="50" />
-  <img src="img/sql.svg" alt="PL/SQL" width="50" />
-  <img src="img/soapui.svg" alt="SoapUI" width="50" />
-</p>
+<p>
+🧪 Testing y Automatización
 
+   ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
+   ![Static Badge](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=69D3A7&labelColor=black)  
+   ![Static Badge](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=white)
+   ![Static Badge](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=23D96C&labelColor=black)
+
+📦 Bases de Datos y Reportes
+  <br>
+  
+  ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)
+
+🖥️ Lenguajes de Programación
+  <br>
+  
+  ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=white)
+  ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=5FA04E&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=512BD4&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=0F0F11&labelColor=white)
+
+🛠️ Herramientas de Desarrollo y Gestión
+  <br>
+
+   ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=white)
+   ![Static Badge](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=0052CC&labelColor=black)
+   ![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=white)
+   ![Static Badge](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=0052CC&labelColor=white)
+   ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=172B4D&labelColor=white)
+
+🎨 Diseño y Otras Herramientas
+  <br>
+
+  ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=BF0000&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=white)
+</p> 
+  
 ---
 
 ## 📈 Proyectos y Experiencia
 
-### 🏢 Cliente: Claro Perú
+### 🏢 Cliente: Claro Perú - TechMahindra
 
 #### 🔹 Funciones destacadas:
-- Estimación y ejecución de pruebas QA.
-- Control de fallas y proyectos en **JIRA**.
-- Revisión de documentos funcionales y técnicos: MDI, PDP, PS, EDS, EDD.
-- Pruebas unitarias, funcionales y regresión en web, BD y servicios REST/SOAP.
-- Automatización con **Selenium**, **SoapUI** y **Postman**.
-- Reportes y documentación en RTC, checklist, SOX, entre otros.
 
-## ⚙️Tecnologia que manejo
-
-<p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
-</p>
-
-![Banner](img/banner-vanessa.png)
-
+- Realizar un control de falla y/o proyectos en JIRA.
+- Revisión de documentos de MDI, PDP, PS y AL.
+- Realizar pruebas unitarias, funcionales y de regresión.
+- Realizar pruebas unitarias de servicios en REST y SOAP.
+- Realizar pruebas unitarias de BD y Shell en PL/SQL.
+- Realizar pruebas funcionales y de regresión en aplicativos de Claro.
+- Realizar documentación de cierre, checklist, sox, PDP QA, gestión de aprobaciones, creación de tareas en RTC web y subir documentos a RTC.
 ---
 
 ## 🌐 Sitio Web
@@ -138,6 +95,10 @@ Aquí algunas de las tecnologías que manejo:
 ## 📬 Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VanessaMery-blue?logo=linkedin)](https://www.linkedin.com/in/vanessa-mery-sanchez-ticona)
+![Static Badge](https://img.shields.io/badge/whatsapp-25D366?logo=whatsapp&logoColor=25D366&labelColor=white)
+![Static Badge](https://img.shields.io/badge/facebook-0866FF?logo=facebook&logoColor=0866FF&labelColor=black)
+![Static Badge](https://img.shields.io/badge/instagram-FF0069?logo=instagram&logoColor=FF0069&labelColor=white)
+
 
 ---
 
