@@ -94,12 +94,10 @@ Aquí algunas de las tecnologías que manejo:
 - Realizar pruebas unitarias de servicios en REST y SOAP.
 - Realizar pruebas unitarias de BD y Shell en PL/SQL.
 - Realizar pruebas funcionales y de regresión en aplicativos de Claro.
-- Realizar documentación de cierre, checklist, sox, PDP QA, gestión de aprobaciones, creación de tareas en RTC web y subir documentos a RTC.
+- Realizar documentación de cierre, checklist, sox, PDP QA.
+- Gestión de aprobaciones, creación de tareas en RTC web y subir documentos a RTC.
+  
 ---
-
-## ❤ Views and Followers
-
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 ## 🌐 Sitio Web
 
