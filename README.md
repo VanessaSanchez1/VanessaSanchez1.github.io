@@ -5,10 +5,10 @@
 
 <p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw" />
 
---
 
 ## 👩‍💻 Sobre mí
 <br>
+
 ✨ Actualmente...
 - Estudiante del 9no semestre en la Universidad Continental
 - Me desempeño como QA Automatizador
