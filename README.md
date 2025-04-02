@@ -1,13 +1,13 @@
 
 # 💼 Hola soy Vanessa Mery Sanchez Ticona 👋
 
-<p><img align="right" src="img/header_1.png"/></p>
+<p><img align="right" src="img/header_1.png alt="adam-pw""/></p>
 
-<p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw" />
+<p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw"/>
+</p>
 
 
 ## 👩‍💻 Sobre mí
-<br>
 
 ✨ Actualmente...
 - Estudiante del 9no semestre en la Universidad Continental
@@ -28,7 +28,7 @@
 - Pruebas funcionales
 - Pruebas unitarias
 - Pruebas de regresión
-<br><br>
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
