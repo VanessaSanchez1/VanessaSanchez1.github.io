@@ -35,7 +35,6 @@
 Aquí algunas de las tecnologías que manejo:
 
 
-
   - **🧪 Testing y Automatización**:
     
     ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
@@ -47,18 +46,12 @@ Aquí algunas de las tecnologías que manejo:
     
 - **📦 Bases de Datos y Reportes**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)
 
 <br>  
     
 - **🖥️ Lenguajes de Programación**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=5FA04E&labelColor=black)
@@ -69,7 +62,6 @@ Aquí algunas de las tecnologías que manejo:
 
 - **🛠️ Herramientas de Desarrollo y Gestión**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=white)
    ![Static Badge](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=0052CC&labelColor=black)
    ![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=white)
@@ -80,23 +72,10 @@ Aquí algunas de las tecnologías que manejo:
 
 - **🎨 Diseño y Otras Herramientas**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=BF0000&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
 
 </p>
 
