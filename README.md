@@ -1,12 +1,9 @@
 
 # 💼 Hola soy Vanessa Mery 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
-<p><img src="img/manito.gif" alt="Java" width="50"" /> Sobre mi </p>
-
-## Google (Noto Color Emoji 16.0) <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+<picture><img src = "img/manito.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
