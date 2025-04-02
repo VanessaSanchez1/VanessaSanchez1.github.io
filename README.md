@@ -1,7 +1,7 @@
 
 # 💼 Hola soy Vanessa Mery Sanchez Ticona 👋
 
-<p><img align="right" src="img/header_1.png alt="adam-pw""/></p>
+<p><img align="right" src="img/header_1.png" alt="adam-pw"/></p>
 
 <p><img align="right" src="img/animation_500_kxa883sd.gif" alt="adam-pw"/>
 </p>
@@ -36,7 +36,9 @@ Aquí algunas de las tecnologías que manejo:
 
 <p>
 🧪 Testing y Automatización:
-
+   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-VanessaMery-blue?logo=linkedin)](https://www.linkedin.com/in/vanessa-mery-sanchez-ticona)
+   
    ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
    
    ![Static Badge](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=69D3A7&labelColor=black)
