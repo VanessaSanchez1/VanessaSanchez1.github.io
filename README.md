@@ -80,7 +80,6 @@ Aquí algunas de las tecnologías que manejo:
 </p>
 
 <br>
-<br>
 ---
 
 ## 📈 Proyectos y Experiencia
@@ -98,6 +97,10 @@ Aquí algunas de las tecnologías que manejo:
 - Realizar documentación de cierre, checklist, sox, PDP QA, gestión de aprobaciones, creación de tareas en RTC web y subir documentos a RTC.
 ---
 
+## ❤ Views and Followers
+
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+
 ## 🌐 Sitio Web
 
 🔗 Puedes visitar mi portafolio online:  
@@ -114,5 +117,12 @@ Aquí algunas de las tecnologías que manejo:
 
 
 ---
+
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
+ 
+<br>
 
 📌 _Este repositorio forma parte de mi marca personal y es un reflejo de mi camino profesional como QA Automatizadora._
