@@ -8,7 +8,7 @@
 --
 
 ## 👩‍💻 Sobre mí
-
+<p>
 ✨ Actualmente...
 - Estudiante del 9no semestre en la Universidad Continental
 - Me desempeño como QA Automatizador
@@ -28,7 +28,8 @@
 - Pruebas funcionales
 - Pruebas unitarias
 - Pruebas de regresión
-
+</p>
+<br/>
 ---
 
 ## 🛠️ Tecnologías y Herramientas
