@@ -1,6 +1,11 @@
 
 # 💼 Hola soy Vanessa Mery Sanchez Ticona 👋
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ## 👩‍💻 Sobre mí
 
 ✨ Actualmente...
@@ -28,7 +33,7 @@
 ## 🛠️ Tecnologías y Herramientas
 Aquí algunas de las tecnologías que manejo:
 
-
+<p>
 🧪 Testing y Automatización:
 
    ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
@@ -67,7 +72,7 @@ Aquí algunas de las tecnologías que manejo:
   ![Static Badge](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=2C2255&labelColor=white)
 
-  
+  </p>
 ---
 
 ## 📈 Proyectos y Experiencia
