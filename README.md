@@ -29,19 +29,19 @@
 Aquí algunas de las tecnologías que manejo:
 
 <p>
-🧪 Testing y Automatización
+🧪 Testing y Automatización:
 
    ![Static Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black)
    ![Static Badge](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=69D3A7&labelColor=black)  
    ![Static Badge](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=white)
    ![Static Badge](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=23D96C&labelColor=black)
 
-📦 Bases de Datos y Reportes
+📦 Bases de Datos y Reportes:
   <br>
   
   ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)
 
-🖥️ Lenguajes de Programación
+🖥️ Lenguajes de Programación:
   <br>
   
   ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=white)
@@ -50,7 +50,7 @@ Aquí algunas de las tecnologías que manejo:
   ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=512BD4&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=0F0F11&labelColor=white)
 
-🛠️ Herramientas de Desarrollo y Gestión
+🛠️ Herramientas de Desarrollo y Gestión:
   <br>
 
    ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=white)
@@ -59,7 +59,7 @@ Aquí algunas de las tecnologías que manejo:
    ![Static Badge](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=0052CC&labelColor=white)
    ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=172B4D&labelColor=white)
 
-🎨 Diseño y Otras Herramientas
+🎨 Diseño y Otras Herramientas:
   <br>
 
   ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
