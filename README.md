@@ -1,6 +1,3 @@
-<!-- Fondo oscuro simulado con secciones en cajas -->
-<div style="background-color:#0d1117; color:#c9d1d9; padding: 2rem; border-radius: 10px;">
-
 # 💼 Hola soy Vanessa Mery Sanchez Ticona 👋
 
 <p><img align="right" src="img/header_1.png" alt="adam-pw"/></p>
